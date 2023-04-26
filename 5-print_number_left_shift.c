@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_number_left_shift - prints a number with options
- * @str: the base number as a string
- * @params: the parameter struct
+ * print_number_left_shift - gets the number printed with options
+ * @str: base number
+ * @params:  parameter structure
  *
  * Return: chars printed
  */
